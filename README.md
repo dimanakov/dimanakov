@@ -22,7 +22,13 @@
 ---
 
 Мой стек: 
-* VS Code, * HTML, CSS, JavaScript, React, Git, Node.js
+* VS Code 
+* HTML
+* CSS
+* JavaScript
+* React
+* Node.js
+* Git
 <!--
 **dimanakov/dimanakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
