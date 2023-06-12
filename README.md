@@ -1,4 +1,8 @@
-### Hi there 👋
+### Привет, меня зовут Дмитрий. 👋
+
+Изучаю фронтенд разработку в Я.Практикуме.
+
+Мой стек: VS Code, HTML, CSS, JavaScript, React, Git, Node.js
 
 <!--
 **dimanakov/dimanakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
