@@ -1,7 +1,7 @@
 ### Привет, меня зовут Дмитрий. 👋
+
 ---
-Мой стек: VS Code, HTML, CSS, JavaScript, React, Git, Node.js
----
+
 Обучаюсь веб-разработке в Яндекс Практикуме. Под присмотром опытных менторов создаю проекты, вот некоторые из них:
 
 # Проект «mesto»
@@ -19,6 +19,9 @@
 Технологии: HTML, CSS.
 Ссылка на проект: https://dimanakov.github.io/how-to-learn/
 
+---
+
+Мой стек: VS Code, HTML, CSS, JavaScript, React, Git, Node.js
 <!--
 **dimanakov/dimanakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
